@@ -1,10 +1,10 @@
 {
   "private": true,
-  "version": "3.0.0-beta.1",
+  "version": "3.0.0-beta.1-angular13",
   "description": "Angular components for Google Maps",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SebastianM/angular-google-maps.git"
+    "url": "https://github.com/pedro-ribeiro-rci/angular-google-maps.git"
   },
   "keywords": [
     "angular",
@@ -42,24 +42,24 @@
   },
   "homepage": "https://angular-maps.com",
   "dependencies": {
-    "@angular/animations": "^14.0.0",
-    "@angular/common": "^14.0.0",
-    "@angular/compiler": "^14.0.0",
-    "@angular/core": "^14.0.0",
-    "@angular/forms": "^14.0.0",
-    "@angular/platform-browser": "^14.0.0",
-    "@angular/platform-browser-dynamic": "^14.0.0",
-    "@angular/router": "^14.0.0",
-    "rxjs": "~6.6.0",
-    "tslib": "^2.4.0",
+    "@angular/animations": "^13.0.0",
+    "@angular/common": "^13.0.0",
+    "@angular/compiler": "^13.0.0",
+    "@angular/core": "^13.0.0",
+    "@angular/forms": "^13.0.0",
+    "@angular/platform-browser": "^13.0.0",
+    "@angular/platform-browser-dynamic": "^13.0.0",
+    "@angular/router": "^13.0.0",
+    "rxjs": "~6.5.0",
+    "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^14.0.0",
-    "@angular/cli": "^14.0.0",
-    "@angular/compiler-cli": "^14.0.0",
+    "@angular-devkit/build-angular": "^13.0.0",
+    "@angular/cli": "^13.0.0",
+    "@angular/compiler-cli": "^13.0.0",
     "@compodoc/compodoc": "^1.1.10",
-    "@types/jest": "^26.0.4",
+    "@types/jest": "^27.0.2",
     "@types/node": "^14.0.22",
     "codelyzer": "^6.0.0",
     "conventional-changelog": "^3.1.21",
